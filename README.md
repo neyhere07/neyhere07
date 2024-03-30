@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Spring and Springboot**
 
-- 💬 Ask me about: **Java, C, C++, Python**
+- 💬 Ask me about: **anything you want**
 
 - 📫 How to reach me:  **neynaxnayak@gmail.com**
 

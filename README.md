@@ -10,10 +10,6 @@
   </samp>
 </p>
 <hr>
-
-[![An image of @neyhere07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neyhere07)](https://holopin.io/@neyhere07)
-
-<hr>
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
@@ -21,3 +17,6 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=neyhere07&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyhere07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<hr>
+
+[![An image of @neyhere07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neyhere07)](https://holopin.io/@neyhere07)

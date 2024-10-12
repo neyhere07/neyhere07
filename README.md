@@ -9,3 +9,5 @@
     <a href="https://www.codechef.com/users/neyhere08">CodeChef</a>
   </samp>
 </p>
+
+[![An image of @neyhere07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neyhere07)](https://holopin.io/@neyhere07)

@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center">
   <samp>
     <a href="https://www.leetcode.com/neyhere07">Leetcode</a> •
     <a href="https://www.hackerrank.com/nyananayak27">HackerRank</a> •
@@ -9,7 +9,7 @@
     <a href="https://www.codechef.com/users/neyhere08">CodeChef</a>
   </samp>
 </p>
-<hr>
+<hr> -->
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>

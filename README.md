@@ -9,8 +9,9 @@
     <a href="https://www.codechef.com/users/neyhere08">CodeChef</a>
   </samp>
 </p>
-<hr> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neyhere07&label=Profile%20views&color=0e75b6&style=flat" alt="neyhere07" /> </p>
+<hr> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neyhere07&label=Profile%20views&color=0e75b6&style=flat" alt="neyhere07" /> </p>-->
+
 <h2> Current Stats ⚡</h2>
 <br>
 <div align=center>

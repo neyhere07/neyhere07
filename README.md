@@ -10,7 +10,8 @@
   </samp>
 </p>
 <hr> -->
-<h2 align="center">⚡ Current Stats ⚡</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neyhere07&label=Profile%20views&color=0e75b6&style=flat" alt="neyhere07" /> </p>
+<h2> Current Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=neyhere07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -18,12 +19,12 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyhere07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr>
-<h2 align="center"> 💚 Hacktoberfest 2024 Badges 💚 </h2><br>
+<h2> Hacktoberfest 2024 Badges 💚 </h2><br>
 
 [![An image of @neyhere07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neyhere07)](https://holopin.io/@neyhere07)
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<!--<details>	-->
+ <h2> GSSOC(24) Badges 🪶</h2><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -40,4 +41,4 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> -->
 </a>
 </div>
-</details>
+<!-- </details> -->

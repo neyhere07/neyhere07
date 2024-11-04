@@ -12,7 +12,7 @@
 <hr> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neyhere07&label=Profile%20views&color=0e75b6&style=flat" alt="neyhere07" /> </p>-->
 
-<h2> Current Stats ⚡</h2>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Current Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=neyhere07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
